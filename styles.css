@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(111, 29, 165);
+}
+
+#twitch-embed {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+}
